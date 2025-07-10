@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(180deg, #01114a, #000000); /* Indigo to Black */
+    color: #fff; /* White text for contrast */
+}
+
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1; /* Takes up remaining space */
+    padding: 20px
+}

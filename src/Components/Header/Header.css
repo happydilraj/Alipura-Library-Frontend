@@ -1,0 +1,8 @@
+/* CSS for the selected button */
+.selected {
+    background-color: #010822; /* Dark blue background */
+    color: white; /* White text */
+    border-color: gray; /* Change border color */
+    box-shadow: 0 0 5px gray; /* Similar to focus ring */
+  }
+  
